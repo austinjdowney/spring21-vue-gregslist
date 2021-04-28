@@ -1,3 +1,7 @@
+# Justin added slots and how to install modals thru modals
+https://github.com/JustinCarpenter2020/spring21-vue-gregslist
+
+
 # vue-gregslist
 
 ## Project setup
